@@ -1,4 +1,4 @@
-819775188361name: AWS Device Farm Automated Test for Mobile App
+name: AWS Device Farm Automated Test for Mobile App
 
 on:
   push:
